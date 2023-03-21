@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # [!DNL Experience Makers - Learn from your peers] {#overview}
 
-&lt;!— <img alt="Experience Makers Obtenga información de sus colegas" src="./assets/skill-exchange.png" /> --->
+<!-- <img alt="Experience Makers Obtenga información de sus colegas" src="./assets/skill-exchange.png" /> --->
 
 Aprenda a los expertos en Adobe y a los compañeros a sacar el máximo partido de sus soluciones de Adobe. Con temas seleccionados para profesionales, _por_ Para los profesionales, estas sesiones interactivas comparten casos de uso &quot;artísticos de lo posible&quot;, prácticas recomendadas y consejos y trucos.
 
