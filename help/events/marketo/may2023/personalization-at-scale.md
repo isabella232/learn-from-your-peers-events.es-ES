@@ -8,9 +8,9 @@ doc-type: Event
 last-substantial-update: 2023-05-05T00:00:00Z
 jira: KT-13214
 thumbnail: 3419133.jpeg
-source-git-commit: 112c25b593e5d3569dedc99b36237b92494d8a44
+source-git-commit: 2a3677dfebbe9a1edfce7d3c03bf921525a57bd7
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '150'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ En el mundo actual basado en datos, si no está personalizando su contenido de m
 En este seminario web, aprenderá:
 
 * ¿Por qué es importante la personalización?
-* Casos de uso y técnicas de personalización clave para cada uno. Funciones y técnicas disponibles en Marketo Engage le enseñaremos cómo usar: Tokens, segmentaciones, contenido dinámico y fragmentos, y secuencias de comandos de Velocity.
+* Casos de uso y técnicas de personalización clave para cada uno. Funciones y técnicas disponibles en Marketo Engage le enseñaremos a utilizar: Tokens, segmentaciones, contenido dinámico y fragmentos, y secuencias de comandos de Velocity.
 * Casos de uso de secuencias de comandos de Velocity avanzada, incluida la personalización del contenido mediante datos procedentes de objetos personalizados.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419133/?learn=on)
