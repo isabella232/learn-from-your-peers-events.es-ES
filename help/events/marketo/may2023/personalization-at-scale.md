@@ -1,6 +1,6 @@
 ---
-title: Bloqueo del código de personalización a escala mediante el Marketo Engage
-description: Abarca las funciones de personalización disponibles en Adobe Marketo Engage; Tokens, segmentaciones, contenido dinámico y fragmentos, y secuencias de comandos de Velocity.  Casos de uso de secuencias de comandos de Velocity avanzada, incluida la personalización del contenido mediante datos procedentes de objetos personalizados.
+title: Descifrar la personalización a escala del código mediante Marketo Engage
+description: Abarca las funciones de personalización disponibles en Adobe Marketo Engage; tokens, segmentaciones, contenido y fragmentos dinámicos y scripts de Velocity.  Casos de uso de scripts de velocidad avanzados, incluida la personalización de contenido mediante datos procedentes de objetos personalizados.
 solution: Marketo Engage
 role: Admin, User
 level: Intermediate, Experienced
@@ -16,14 +16,14 @@ ht-degree: 0%
 ---
 
 
-# Bloqueo del código de personalización a escala mediante el Marketo Engage
+# Descifrar la personalización a escala del código mediante Marketo Engage
 
-En el mundo actual basado en datos, si no está personalizando su contenido de marketing, le falta una oportunidad para conectarse con su audiencia. Únase a los Campeones Marketo Engage, Courtny Edwards-Jones y Darshil Shah, ya que comparten su sabiduría para sacar el máximo partido a las funciones de personalización disponibles en Adobe Marketo Engage.
+En el mundo actual, basado en los datos, si no personaliza el contenido de marketing, está perdiendo la oportunidad de conectarse con la audiencia. Únase a los Campeones Marketo Engage, Courtny Edwards-Jones y Darshil Shah, ya que comparten su sabiduría para obtener el máximo rendimiento gracias a las funciones de personalización disponibles en Adobe Marketo Engage.
 
-En este seminario web, aprenderá:
+En este seminario web, aprenderá lo siguiente:
 
 * ¿Por qué es importante la personalización?
-* Casos de uso y técnicas de personalización clave para cada uno. Funciones y técnicas disponibles en Marketo Engage le enseñaremos a utilizar: Tokens, segmentaciones, contenido dinámico y fragmentos, y secuencias de comandos de Velocity.
-* Casos de uso de secuencias de comandos de Velocity avanzada, incluida la personalización del contenido mediante datos procedentes de objetos personalizados.
+* Casos de uso de personalización clave y técnicas que se deben utilizar para cada uno. Funciones y técnicas disponibles en Marketo Engage le enseñaremos a utilizar: tokens, segmentaciones, contenido dinámico y fragmentos de código, y Velocity Scripting.
+* Casos de uso de scripts de velocidad avanzados, incluida la personalización de contenido mediante datos procedentes de objetos personalizados.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419133/?learn=on)

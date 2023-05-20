@@ -1,6 +1,6 @@
 ---
 title: Contar historias impactantes con datos
-description: Unirse [!DNL Adobe Analytics] La Campeona Amy Ard explica cómo el arte y la ciencia pueden unirse para contar una historia poderosa y ayudar a tu compañía a tomar decisiones basadas en datos.
+description: Unirse [!DNL Adobe Analytics] La campeona Amy Ard explica cómo el arte y la ciencia pueden unirse para contar una historia poderosa y ayudar a su empresa a tomar decisiones basadas en datos.
 solution: Analytics
 role: User
 doc-type: Event
@@ -17,6 +17,6 @@ ht-degree: 11%
 
 # Contar historias impactantes con datos
 
-Los datos son una de las herramientas más poderosas de las que puede depender una organización, pero solo si se presentan de manera que les importe a quienes toman decisiones. Unirse [!DNL Adobe Analytics] La Campeona Amy Ard explica cómo el arte y la ciencia pueden unirse para contar una historia poderosa y ayudar a tu compañía a tomar decisiones basadas en datos.
+Los datos son una de las herramientas más poderosas en las que una organización puede confiar, pero solo si se presentan de una manera que importe a los responsables de la toma de decisiones. Unirse [!DNL Adobe Analytics] La campeona Amy Ard explica cómo el arte y la ciencia pueden unirse para contar una historia poderosa y ayudar a su empresa a tomar decisiones basadas en datos.
 
 >[!VIDEO](https://video.tv.adobe.com/v/342096/?quality=12&learn=on)
